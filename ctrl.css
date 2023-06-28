@@ -6,7 +6,20 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
    }
+
+
+.nep{
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+.logowei{
+    width: 255;
+    height: 101;
+}
 
 .custom-width{
     width: 70px;
